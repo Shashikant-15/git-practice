@@ -1,3 +1,4 @@
 # git-practice
 
-merge commit first-01
+
+let's some changes in master from remote
